@@ -14,9 +14,11 @@ import revisao_desafio_jogador.Time;
 
 class CampeonatoTest {
 	List<Time> times;
+	Campeonato campeonato;
 
 	@BeforeEach
 	void inicializar() {
+		campeonato = new Campeonato();
 		List<Jogador> jogadores1 = new ArrayList<>();
 		jogadores1.add(new Jogador("N1", 1, 1));
 		jogadores1.add(new Jogador("N2", 2, 2));

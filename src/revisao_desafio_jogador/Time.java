@@ -35,10 +35,6 @@ public class Time {
 		return jogadores;
 	}
 
-	public void setJogadores(List<Jogador> jogadores) {
-		this.jogadores = jogadores;
-	}
-
 	@Override
 	public String toString() {
 		return getNome() + " ("+getJogadores().size()+")";

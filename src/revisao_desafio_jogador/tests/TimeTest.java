@@ -15,6 +15,7 @@ class TimeTest {
 	
 	Time t1;
 	Time t2;
+	Time t3;
 	
 	@BeforeEach
 	public void inicializar() {
@@ -26,6 +27,7 @@ class TimeTest {
 		jogadores.add(new Jogador("N5", 5, 5));
 		t1 = new Time("Time 1", jogadores);
 		t2 = new Time();
+		t3 = new Time("Time 3", jogadores.get(0));
 	}
 	
 	@Test

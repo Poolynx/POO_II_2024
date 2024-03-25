@@ -1,0 +1,50 @@
+A Lua orbita a Terra, Verdadeiro
+O ser humano tem cinco dedos em cada mão, Verdadeiro
+O oxigênio é necessário para a combustão, Verdadeiro
+As plantas realizam fotossíntese para produzir oxigênio, Verdadeiro
+O Brasil é o maior país da América do Sul, Verdadeiro
+A velocidade da luz é maior do que a velocidade do som, Verdadeiro
+A água ferve a 100 graus Celsius ao nível do mar, Verdadeiro
+O diamante é uma forma pura de carbono, Verdadeiro
+O ácido clorídrico é uma substância corrosiva, Verdadeiro
+O ferro é um elemento químico, Verdadeiro
+O calor se propaga mais rapidamente em sólidos do que em líquidos, Verdadeiro
+A linguagem HTML é usada para criar páginas da web, Verdadeiro
+O sistema solar possui oito planetas, Falso
+O oxigênio é o gás mais abundante na atmosfera da Terra, Falso
+O Sol gira em torno da Terra, Falso
+O veneno da aranha viúva-negra é fatal para humanos, Verdadeiro
+A Grande Muralha da China é visível do espaço, Falso
+O diamante é mais duro do que o vidro, Verdadeiro
+A revolução francesa ocorreu no século XVIII, Verdadeiro
+O inglês é a língua oficial da Austrália, Verdadeiro
+A baleia é um mamífero aquático, Verdadeiro
+O Rio Amazonas é o rio mais longo do mundo, Falso
+O Planeta Terra tem duas luas, Falso
+As bananas são frutas, Verdadeiro
+O sangue humano é vermelho devido à presença de ferro, Verdadeiro
+O diamante é formado a partir da pressão extrema sobre o carvão, Verdadeiro
+O átomo é a menor unidade de um elemento químico, Verdadeiro
+O ouro é um metal menos denso do que o ferro, Verdadeiro
+A Guerra Fria foi um conflito entre os Estados Unidos e a Alemanha, Falso
+A água pura é um condutor de eletricidade, Falso
+O hipocampo é uma parte do cérebro humano, Verdadeiro
+A Revolução Industrial começou na Grã-Bretanha, Verdadeiro
+O fogo é um estado da matéria, Falso
+A montanha mais alta do mundo é o Monte Everest, Verdadeiro
+A fórmula química da água é H2O2, Falso
+O lobo é um animal solitário, Falso
+O Pólo Norte é o ponto mais frio da Terra, Falso
+O papel é feito de celulose, Verdadeiro
+A asa-delta é uma forma de avião, Falso
+O Brasil foi colonizado pelos espanhóis, Falso
+O sistema nervoso autônomo controla as funções voluntárias do corpo, Falso
+A Mona Lisa foi pintada por Vincent Van Gogh, Falso
+O "Big Bang" é a teoria dominante sobre a origem do universo, Verdadeiro
+A energia solar é renovável, Verdadeiro
+O ferro é um bom condutor de eletricidade, Verdadeiro
+O pinguim é uma ave que voa, Falso
+O átomo é composto por um núcleo de prótons e elétrons orbitando, Verdadeiro
+A água é um composto químico, Verdadeiro
+O sistema operacional Android é desenvolvido pela Apple, Falso
+A França é o país com a maior área terrestre da Europa, Falso
