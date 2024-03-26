@@ -1,10 +1,10 @@
-A fórmula química da água é H2O2, erro
-A Mona Lisa foi pintada por Vincent Van Gogh, erro
-A baleia é um mamífero aquático, acerto
-O oxigênio é necessário para a combustão, acerto
-A montanha mais alta do mundo é o Monte Everest, acerto
+A água é um composto químico, acerto
+A Grande Muralha da China é visível do espaço, erro
+A linguagem HTML é usada para criar páginas da web, acerto
+O inglês é a língua oficial da Austrália, acerto
 O ferro é um bom condutor de eletricidade, acerto
-A Lua orbita a Terra, acerto
-A Guerra Fria foi um conflito entre os Estados Unidos e a Alemanha, erro
-O Rio Amazonas é o rio mais longo do mundo, erro
 O Sol gira em torno da Terra, erro
+O veneno da aranha viúva-negra é fatal para humanos, acerto
+O sistema nervoso autônomo controla as funções voluntárias do corpo, erro
+O Brasil foi colonizado pelos espanhóis, erro
+O ouro é um metal menos denso do que o ferro, acerto

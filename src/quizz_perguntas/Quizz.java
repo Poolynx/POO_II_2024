@@ -2,7 +2,6 @@ package quizz_perguntas;
 
 import java.io.*;
 import java.util.Arrays;
-import java.util.Objects;
 import java.util.Scanner;
 
 public class Quizz {
